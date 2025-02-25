@@ -1,4 +1,4 @@
-# 🔐 PassOP – Your Personal Password Manager anager)**  
+# 🔐 PassOP – Your Personal Password Manager 
 
 PassOP is a **secure and intuitive password manager** built with **React.js**. It allows users to **store, manage, copy, edit, and delete passwords** with a seamless user experience.  
 

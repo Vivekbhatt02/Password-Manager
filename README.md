@@ -18,9 +18,10 @@ PassOP is a **secure and intuitive password manager** built with **React.js**. I
 🔑 **UUID** – Unique password entries  
 🔔 **React Toastify** – Notifications  
 🖌️ **Lordicon** – Animated icons  
-
+ 
 ## 📸 Preview  
-![PassOP Screenshot](your-screenshot-url)  
+![PassOP Screenshot](https://github.com/Vivekbhatt02/Password-Manager/blob/main/Preview.png?raw=true)
+
 
 ## 🚀 Getting Started  
 1️⃣ **Clone the repository:**  
